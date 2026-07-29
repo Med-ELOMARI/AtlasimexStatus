@@ -3,19 +3,19 @@ owner: Med-ELOMARI
 repo: AtlasimexStatus
 
 sites:
-  - name: Webmail API
+  - name: Webmail Health
     url: https://webmail.atlasimex.es/api/health
 
   - name: Mailserver Health
     url: https://mail.atlasimex.es/healthz/ready
 
-  - name: Planka (Office)
+  - name: Office Health (Planka)
     url: https://office.atlasimex.es
 
 status-website:
   # Base URL matches your repository name on GitHub Pages
   baseUrl: /AtlasimexStatus
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.atlasimex.es/images/logo/logo.svg
   name: Atlasimex Status
   introTitle: "**Atlasimex** Service Status"
   introMessage: Real-time monitoring and status tracking for internal and public Atlasimex services. 
