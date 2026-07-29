@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Atlasimex Status
   introTitle: "**Atlasimex** Service Status"
-  introMessage: Real-time monitoring and status tracking for internal and public Atlasimex services.
+  introMessage: Real-time monitoring and status tracking for internal and public Atlasimex services. 
   navbar:
     - title: Status
       href: /AtlasimexStatus
