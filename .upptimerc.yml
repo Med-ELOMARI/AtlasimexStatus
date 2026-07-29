@@ -14,6 +14,7 @@ sites:
 
 status-website:
   # Base URL matches your repository name on GitHub Pages
+  cname: uptime.atlasimex.es
   baseUrl: /AtlasimexStatus
   logoUrl: https://www.atlasimex.es/images/logo/logo.svg
   name: Atlasimex Status
