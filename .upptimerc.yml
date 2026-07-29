@@ -15,13 +15,15 @@ sites:
 status-website:
   # Base URL matches your repository name on GitHub Pages
   cname: uptime.atlasimex.es
-  baseUrl: /AtlasimexStatus
+  baseUrl: /
   logoUrl: https://www.atlasimex.es/images/logo/logo.svg
   name: Atlasimex Status
   introTitle: "**Atlasimex** Service Status"
   introMessage: Real-time monitoring and status tracking for internal and public Atlasimex services. 
   navbar:
     - title: Status
-      href: /AtlasimexStatus
+      href: /
+    - title: Web
+      href: https://atlasimex.es
     - title: GitHub
       href: https://github.com/Med-ELOMARI/AtlasimexStatus
