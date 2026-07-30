@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {
-      "2026-07-29": 2
-    }
+    "time": 211,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mailserver Health",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 261,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "3D Previewer",
+    "url": "https://previewer.atlasimex.es/health.json",
+    "icon": "https://icons.duckduckgo.com/ip3/previewer.atlasimex.es.ico",
+    "slug": "3-d-previewer",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]
