@@ -12,6 +12,9 @@ sites:
   - name: Office Health (Planka)
     url: https://office.atlasimex.es
 
+  - name: 3D Previewer
+    url: https://previewer.atlasimex.es/health.json
+
 status-website:
   # Base URL matches your repository name on GitHub Pages
   cname: uptime.atlasimex.es
